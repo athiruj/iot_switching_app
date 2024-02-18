@@ -1,0 +1,4 @@
+{
+  "cmake.sourceDirectory": "/Users/athi/WhatIsMicro/iot_switch/linux",
+  "idf.flashType": "JTAG"
+}
